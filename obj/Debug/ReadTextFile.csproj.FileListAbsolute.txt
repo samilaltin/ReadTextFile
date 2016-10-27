@@ -1,0 +1,1 @@
+c:\users\samil-pc\documents\visual studio 2013\Projects\ReadTextFile\ReadTextFile\bin\Debug\ReadTextFile.exe.config
